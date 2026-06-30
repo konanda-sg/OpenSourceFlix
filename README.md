@@ -1,5 +1,7 @@
 # OPENSOURCEFLIX Premium All In One BDIX(m3u/m3u8) Playlist:
 
+#ALL OFF NOW ❌❌
+
 
 Playlist Link- (https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/iptv.m3u8)
 Short URL (For TV)
